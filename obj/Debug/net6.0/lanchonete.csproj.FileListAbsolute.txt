@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\lanchonete\bin\Debug\net6.0\lanchonete.exe
+C:\Users\ALUNO\Desktop\lanchonete\bin\Debug\net6.0\lanchonete.deps.json
+C:\Users\ALUNO\Desktop\lanchonete\bin\Debug\net6.0\lanchonete.runtimeconfig.json
+C:\Users\ALUNO\Desktop\lanchonete\bin\Debug\net6.0\lanchonete.dll
+C:\Users\ALUNO\Desktop\lanchonete\bin\Debug\net6.0\lanchonete.pdb
+C:\Users\ALUNO\Desktop\lanchonete\obj\Debug\net6.0\lanchonete.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\lanchonete\obj\Debug\net6.0\lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\lanchonete\obj\Debug\net6.0\lanchonete.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\lanchonete\obj\Debug\net6.0\lanchonete.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\lanchonete\obj\Debug\net6.0\lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\lanchonete\obj\Debug\net6.0\lanchonete.dll
+C:\Users\ALUNO\Desktop\lanchonete\obj\Debug\net6.0\refint\lanchonete.dll
+C:\Users\ALUNO\Desktop\lanchonete\obj\Debug\net6.0\lanchonete.pdb
+C:\Users\ALUNO\Desktop\lanchonete\obj\Debug\net6.0\lanchonete.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\lanchonete\obj\Debug\net6.0\ref\lanchonete.dll
